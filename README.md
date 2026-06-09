@@ -47,7 +47,7 @@ class KaranNadar:
 |:---|:---|:---|
 | **Stevens Institute of Technology** | MS, Data Science | 2024 – 2026 |
 | **SIES Graduate School of Technology** | Honors – AI & Machine Learning | 2022 – 2024 |
-| **SIES Graduate School of Technology** | BE, Computer Engineering | 2020 – 2024 |
+| **SIES Graduate School of Technology** | Bachelor of Engineering, Computer Engineering | 2020 – 2024 |
 
 ---
 
